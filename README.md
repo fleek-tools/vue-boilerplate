@@ -1,4 +1,5 @@
 # Vue + Fleek Starter Kit
+![fleek-vue](https://github.com/fleek-tools/vue-template/assets/74613246/ac002b9c-4b98-4b57-a004-058841cbce82)
 
 
 ## 🚀 Project Structure
@@ -23,7 +24,7 @@ Inside of your Vue project, you'll see the following folders and files:
 └── package.json
 ```
 
-If you want to lern more about `vue` you can checkout the official [Vue Documentation](https://vuejs.org/guide/introduction.html).
+If you want to learn more about `vue` you can checkout the official [Vue Documentation](https://vuejs.org/guide/introduction.html).
 
 
 ## 🧞 Commands
