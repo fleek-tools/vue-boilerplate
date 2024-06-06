@@ -1,5 +1,5 @@
 # Vue Boilerplate
-![fleek-vue](https://github.com/fleek-tools/vue-template/assets/74613246/ac002b9c-4b98-4b57-a004-058841cbce82)
+![Vue js Boilerplate](https://github.com/fleek-tools/vue-template/assets/55561695/d70bf293-41f5-45be-94fe-10bebf0dc77a)
 
 
 ## 🚀 Project Structure
